@@ -24,22 +24,22 @@ Create a FastAPI-based API to serve flight delay predictions and airport data fo
 - [x] **Task 1.4**: Create `requirements.txt` file
 - [x] **Task 1.5**: Set up project structure and main application file
 
-### Phase 2: Model Integration ❌
-- [ ] **Task 2.1**: Analyze existing model files:
+### Phase 2: Model Integration ✅
+- [x] **Task 2.1**: Analyze existing model files:
   - `model.pkl` (complete model with metadata)
   - `model.joblib` (alternative format)
   - `model_object.pkl` (lightweight version)
   - `airports.csv` (airport reference data)
-- [ ] **Task 2.2**: Create model loading service using joblib/pickle (native Python)
-- [ ] **Task 2.3**: Implement prediction function with direct model access
-- [ ] **Task 2.4**: Test model loading and prediction functionality
+- [x] **Task 2.2**: Create model loading service using joblib/pickle (native Python)
+- [x] **Task 2.3**: Implement prediction function with direct model access
+- [x] **Task 2.4**: Test model loading and prediction functionality
 
-### Phase 3: Data Services ❌
-- [ ] **Task 3.1**: Create airport data service using pandas for CSV parsing
-- [ ] **Task 3.2**: Load and parse `airports.csv` file with pandas
-- [ ] **Task 3.3**: Implement airport list with IDs and names
-- [ ] **Task 3.4**: Sort airports alphabetically by name
-- [ ] **Task 3.5**: Create Pydantic models for request/response validation
+### Phase 3: Data Services ✅
+- [x] **Task 3.1**: Create airport data service using pandas for CSV parsing
+- [x] **Task 3.2**: Load and parse `airports.csv` file with pandas
+- [x] **Task 3.3**: Implement airport list with IDs and names
+- [x] **Task 3.4**: Sort airports alphabetically by name
+- [x] **Task 3.5**: Create Pydantic models for request/response validation
 
 ### Phase 4: API Endpoints ❌
 - [ ] **Task 4.1**: Set up main FastAPI application (`app.py`)
@@ -186,7 +186,7 @@ def predict_delay(day_of_week: int, airport_id: int) -> dict:
 - uvicorn will be used as the ASGI server: `uvicorn app:app --host 0.0.0.0 --port 8080`
 
 ## Progress Tracking
-**Overall Progress**: 14% (1/7 phases completed)
+**Overall Progress**: 43% (3/7 phases completed)
 
 **Last Updated**: August 28, 2025
-**Status**: Phase 1 completed - Ready to begin Phase 2
+**Status**: Phases 1-3 completed - Ready to begin Phase 4
