@@ -1,0 +1,71 @@
+AirportID,ModelAirportID,AirportCode,AirportName,AirportIdentifier,CityName,State,Source
+10140,10140.0,ALB,Albuquerque International Sunport,"ALB - Albuquerque, NM",Albuquerque,NM,Origin
+10299,10299.0,TED,Ted Stevens Anchorage International,"TED - Anchorage, AK",Anchorage,AK,Origin
+10397,10397.0,HAR,Hartsfield-Jackson Atlanta International,"HAR - Atlanta, GA",Atlanta,GA,Origin
+10423,10423.0,AUS,Austin - Bergstrom International,"AUS - Austin, TX",Austin,TX,Origin
+10529,10529.0,BRA,Bradley International,"BRA - Hartford, CT",Hartford,CT,Origin
+10693,10693.0,NAS,Nashville International,"NAS - Nashville, TN",Nashville,TN,Origin
+10721,10721.0,LOG,Logan International,"LOG - Boston, MA",Boston,MA,Origin
+10792,10792.0,BUF,Buffalo Niagara International,"BUF - Buffalo, NY",Buffalo,NY,Origin
+10800,10800.0,BOB,Bob Hope,"BOB - Burbank, CA",Burbank,CA,Origin
+10821,10821.0,BAL,Baltimore/Washington International Thurgood Marshall,"BAL - Baltimore, MD",Baltimore,MD,Origin
+11042,11042.0,CLE,Cleveland-Hopkins International,"CLE - Cleveland, OH",Cleveland,OH,Origin
+11057,11057.0,CHA,Charlotte Douglas International,"CHA - Charlotte, NC",Charlotte,NC,Origin
+11066,11066.0,POR,Port Columbus International,"POR - Columbus, OH",Columbus,OH,Origin
+11193,11193.0,CIN,Cincinnati/Northern Kentucky International,"CIN - Cincinnati, OH",Cincinnati,OH,Origin
+11259,11259.0,DAL,Dallas Love Field,"DAL - Dallas, TX",Dallas,TX,Origin
+11278,11278.0,RON,Ronald Reagan Washington National,"RON - Washington, DC",Washington,DC,Origin
+11292,11292.0,DEN,Denver International,"DEN - Denver, CO",Denver,CO,Origin
+11298,11298.0,DAL,Dallas/Fort Worth International,"DAL - Dallas/Fort Worth, TX",Dallas/Fort Worth,TX,Origin
+11433,11433.0,DET,Detroit Metro Wayne County,"DET - Detroit, MI",Detroit,MI,Origin
+11618,11618.0,NEW,Newark Liberty International,"NEW - Newark, NJ",Newark,NJ,Origin
+11697,11697.0,FOR,Fort Lauderdale-Hollywood International,"FOR - Fort Lauderdale, FL",Fort Lauderdale,FL,Origin
+12173,12173.0,HON,Honolulu International,"HON - Honolulu, HI",Honolulu,HI,Origin
+12191,12191.0,WIL,William P Hobby,"WIL - Houston, TX",Houston,TX,Origin
+12264,12264.0,WAS,Washington Dulles International,"WAS - Washington, DC",Washington,DC,Origin
+12266,12266.0,GEO,George Bush Intercontinental/Houston,"GEO - Houston, TX",Houston,TX,Origin
+12339,12339.0,IND,Indianapolis International,"IND - Indianapolis, IN",Indianapolis,IN,Origin
+12451,12451.0,JAC,Jacksonville International,"JAC - Jacksonville, FL",Jacksonville,FL,Origin
+12478,12478.0,JOH,John F. Kennedy International,"JOH - New York, NY",New York,NY,Origin
+12889,12889.0,MCC,McCarran International,"MCC - Las Vegas, NV",Las Vegas,NV,Origin
+12892,12892.0,LOS,Los Angeles International,"LOS - Los Angeles, CA",Los Angeles,CA,Origin
+12953,12953.0,LAG,LaGuardia,"LAG - New York, NY",New York,NY,Origin
+12954,12954.0,LON,Long Beach Airport,"LON - Long Beach, CA",Long Beach,CA,Origin
+13198,13198.0,KAN,Kansas City International,"KAN - Kansas City, MO",Kansas City,MO,Origin
+13204,13204.0,ORL,Orlando International,"ORL - Orlando, FL",Orlando,FL,Origin
+13232,13232.0,CHI,Chicago Midway International,"CHI - Chicago, IL",Chicago,IL,Origin
+13244,13244.0,MEM,Memphis International,"MEM - Memphis, TN",Memphis,TN,Origin
+13303,13303.0,MIA,Miami International,"MIA - Miami, FL",Miami,FL,Origin
+13342,13342.0,GEN,General Mitchell International,"GEN - Milwaukee, WI",Milwaukee,WI,Origin
+13487,13487.0,MIN,Minneapolis-St Paul International,"MIN - Minneapolis, MN",Minneapolis,MN,Origin
+13495,13495.0,LOU,Louis Armstrong New Orleans International,"LOU - New Orleans, LA",New Orleans,LA,Origin
+13796,13796.0,MET,Metropolitan Oakland International,"MET - Oakland, CA",Oakland,CA,Origin
+13830,13830.0,KAH,Kahului Airport,"KAH - Kahului, HI",Kahului,HI,Origin
+13851,13851.0,WIL,Will Rogers World,"WIL - Oklahoma City, OK",Oklahoma City,OK,Origin
+13871,13871.0,EPP,Eppley Airfield,"EPP - Omaha, NE",Omaha,NE,Origin
+13891,13891.0,ONT,Ontario International,"ONT - Ontario, CA",Ontario,CA,Origin
+13930,13930.0,CHI,Chicago O'Hare International,"CHI - Chicago, IL",Chicago,IL,Origin
+13931,13931.0,NOR,Norfolk International,"NOR - Norfolk, VA",Norfolk,VA,Origin
+14027,14027.0,PAL,Palm Beach International,"PAL - West Palm Beach/Palm Beach, FL",West Palm Beach/Palm Beach,FL,Origin
+14057,14057.0,POR,Portland International,"POR - Portland, OR",Portland,OR,Origin
+14100,14100.0,PHI,Philadelphia International,"PHI - Philadelphia, PA",Philadelphia,PA,Origin
+14107,14107.0,PHO,Phoenix Sky Harbor International,"PHO - Phoenix, AZ",Phoenix,AZ,Origin
+14122,14122.0,PIT,Pittsburgh International,"PIT - Pittsburgh, PA",Pittsburgh,PA,Origin
+14307,14307.0,THE,Theodore Francis Green State,"THE - Providence, RI",Providence,RI,Origin
+14492,14492.0,RAL,Raleigh-Durham International,"RAL - Raleigh/Durham, NC",Raleigh/Durham,NC,Origin
+14524,14524.0,RIC,Richmond International,"RIC - Richmond, VA",Richmond,VA,Origin
+14570,14570.0,REN,Reno/Tahoe International,"REN - Reno, NV",Reno,NV,Origin
+14635,14635.0,SOU,Southwest Florida International,"SOU - Fort Myers, FL",Fort Myers,FL,Origin
+14679,14679.0,SAN,San Diego International,"SAN - San Diego, CA",San Diego,CA,Origin
+14683,14683.0,SAN,San Antonio International,"SAN - San Antonio, TX",San Antonio,TX,Origin
+14730,14730.0,LOU,Louisville International-Standiford Field,"LOU - Louisville, KY",Louisville,KY,Origin
+14747,14747.0,SEA,Seattle/Tacoma International,"SEA - Seattle, WA",Seattle,WA,Origin
+14771,14771.0,SAN,San Francisco International,"SAN - San Francisco, CA",San Francisco,CA,Origin
+14831,14831.0,NOR,Norman Y. Mineta San Jose International,"NOR - San Jose, CA",San Jose,CA,Origin
+14843,14843.0,LUI,Luis Munoz Marin International,"LUI - San Juan, PR",San Juan,PR,Origin
+14869,14869.0,SAL,Salt Lake City International,"SAL - Salt Lake City, UT",Salt Lake City,UT,Origin
+14893,14893.0,SAC,Sacramento International,"SAC - Sacramento, CA",Sacramento,CA,Origin
+14908,14908.0,JOH,John Wayne Airport-Orange County,"JOH - Santa Ana, CA",Santa Ana,CA,Origin
+15016,15016.0,LAM,Lambert-St. Louis International,"LAM - St. Louis, MO",St. Louis,MO,Origin
+15304,15304.0,TAM,Tampa International,"TAM - Tampa, FL",Tampa,FL,Origin
+15376,15376.0,TUC,Tucson International,"TUC - Tucson, AZ",Tucson,AZ,Origin
