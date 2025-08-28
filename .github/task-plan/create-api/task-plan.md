@@ -41,25 +41,25 @@ Create a FastAPI-based API to serve flight delay predictions and airport data fo
 - [x] **Task 3.4**: Sort airports alphabetically by name
 - [x] **Task 3.5**: Create Pydantic models for request/response validation
 
-### Phase 4: API Endpoints ❌
-- [ ] **Task 4.1**: Set up main FastAPI application (`app.py`)
-- [ ] **Task 4.2**: Configure CORS middleware for frontend integration
-- [ ] **Task 4.3**: Implement `/airports` endpoint
+### Phase 4: API Endpoints ✅
+- [x] **Task 4.1**: Set up main FastAPI application (`app.py`)
+- [x] **Task 4.2**: Configure CORS middleware for frontend integration
+- [x] **Task 4.3**: Implement `/airports` endpoint
   - Method: GET
   - Response: `{ airports: [{ id, name }] }`
   - Sort: Alphabetical by name
-- [ ] **Task 4.4**: Implement `/predict` endpoint
+- [x] **Task 4.4**: Implement `/predict` endpoint
   - Method: POST with JSON body
   - Input: `{ dayOfWeek: int, airportId: int }`
   - Response: `{ delayProbability: float, confidence: float }`
-- [ ] **Task 4.5**: Add Pydantic models for automatic input validation and documentation
+- [x] **Task 4.5**: Add Pydantic models for automatic input validation and documentation
 
-### Phase 5: Server Configuration ❌
-- [ ] **Task 5.1**: Configure uvicorn server to listen on port 8080
-- [ ] **Task 5.2**: Add health check endpoint (`/health`)
-- [ ] **Task 5.3**: Implement graceful shutdown handling
-- [ ] **Task 5.4**: Add request logging middleware
-- [ ] **Task 5.5**: Configure automatic API documentation (OpenAPI/Swagger)
+### Phase 5: Server Configuration ✅
+- [x] **Task 5.1**: Configure uvicorn server to listen on port 8080
+- [x] **Task 5.2**: Add health check endpoint (`/health`)
+- [x] **Task 5.3**: Implement graceful shutdown handling
+- [x] **Task 5.4**: Add request logging middleware
+- [x] **Task 5.5**: Configure automatic API documentation (OpenAPI/Swagger)
 
 ### Phase 6: Testing & Validation ❌
 - [ ] **Task 6.1**: Test airports endpoint returns valid JSON
@@ -186,7 +186,7 @@ def predict_delay(day_of_week: int, airport_id: int) -> dict:
 - uvicorn will be used as the ASGI server: `uvicorn app:app --host 0.0.0.0 --port 8080`
 
 ## Progress Tracking
-**Overall Progress**: 43% (3/7 phases completed)
+**Overall Progress**: 71% (5/7 phases completed)
 
 **Last Updated**: August 28, 2025
-**Status**: Phases 1-3 completed - Ready to begin Phase 4
+**Status**: Phases 1-5 completed - Ready to begin Phase 6
